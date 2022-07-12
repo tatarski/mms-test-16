@@ -1,0 +1,11 @@
+git init         	   - create empty repo
+git add file1 file2        - stages files for commit
+git add .		   - add all changed/new files
+git status       - show staged/unstaged files
+
+git config --global user.name user1
+git config --global user.email email1
+
+git commit -m "MESSAGE"      - create commit
+
+git log                      - commit history
